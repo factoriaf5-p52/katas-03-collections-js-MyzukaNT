@@ -1,7 +1,7 @@
 const chai = window.chai;
 const expect = chai.expect;
 
-describe("Colecciones en JS: Array", () => {
+/*describe("Colecciones en JS: Array", () => {
     it("Pueden crearse usando [ ]", () => {
 
         // crea un array "a" usando los corchetes []
@@ -54,8 +54,7 @@ describe("Colecciones en JS: Array", () => {
 
         expect(fruits).to.have.same.members(["Piña", "Manzana", "Fresa", "Melón", "Pera"])
     })
-})
-
+})*/
 describe("Ejemplos resueltos: Operaciones iterables", () => {
     it("map nos permite realizar operaciones elemento a elemento", () => {
 
